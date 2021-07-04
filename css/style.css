@@ -19,12 +19,14 @@ span{
     width: 50%;
     padding: 5%;
 }
+
 .half-width img{
     width: 80%;
     padding-top: 10%;
 }
 .half-width p{
     padding-bottom: 2%;
+    
 }
 p{
     text-align: justify;
@@ -41,8 +43,7 @@ p{
 }
 .know-more-button:hover{
     box-shadow: 5px 5px 10px gray;
-    background-image: linear-gradient(rgb(99, 219, 255),rgb(99, 219, 255));
-    color: black;
+    background-image: linear-gradient(tomato,tomato);
     padding: 2.5%;
 }
 .top-banner{
