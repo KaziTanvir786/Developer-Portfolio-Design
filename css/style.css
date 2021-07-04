@@ -5,16 +5,18 @@ body{
 h1{
     font-size: 44px;
 }
+
 span{
     color: orange;
     font-size: 60px;
 }
 section{
     display: flex;
+    padding-left: 5%;
 }
 .half-width{
     width: 50%;
-    padding-left: 10%;
+    padding: 5%;
 }
 .half-width img{
     width: 80%;
@@ -34,4 +36,9 @@ p{
 .top-banner{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
